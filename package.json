@@ -1,0 +1,6 @@
+{
+    "name": "com.monitoring.ios",
+    "version": "0.0.1",
+    "description": "Swift package to monitor CPU, GPU and RAM usage of your game on the iPhone.",
+    "displayName": "Monitoring iOS phone"
+}
