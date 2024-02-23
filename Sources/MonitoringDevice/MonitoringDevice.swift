@@ -1,5 +1,5 @@
-public struct MonitoringDevice {
-    static func runNativeCode(){
-        print("---> Monitoring device SDK is running.")
-    }
+struct MonitoringDevice {
+    
+    static var tracker: Tracker = Tracker()
+    
 }
