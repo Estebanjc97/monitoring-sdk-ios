@@ -1,7 +1,5 @@
 import Foundation
 
-public typealias UnityCallback = (String) -> Void
-
 @_cdecl("MonitoringDevice_startTracking")
 public func MonitoringDevice_startTracking() {
     MonitoringDevice.tracker.startTracking()
