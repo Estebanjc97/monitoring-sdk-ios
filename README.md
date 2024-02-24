@@ -16,7 +16,7 @@ Enable `Add To Embedded Binaries` in the Unity Inspector of `MonitoringDevice.fr
 
 # C# Implementation
 
-A simple example to implement the plugin in C# is provided in [MonitoringDeviceImplementation.cs](UnityExample/Assets/Scripts/MonitoringDeviceImplementation.cs).
+A simple example to implement the plugin in C# is provided in [MonitoringDeviceImplementation.cs](UnityExample/custom_sdk/Assets/Scripts/MonitoringDeviceImplementation.cs).
 
-For more information about how to call the swift SDK in C#, check [SwiftBridge.cs](UnityExample/Assets/monitoring-sdk-ios/scripts/SwiftBridge.cs) for details.
+For more information about how to call the swift SDK in C#, check [SwiftBridge.cs](UnityExample/custom_sdk/Assets/monitoring-sdk-ios/scripts/SwiftBridge.cs) for details.
 
